@@ -22,19 +22,6 @@ Currently, I'm diving into various programming languages and exploring the art o
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📚 Learning Path
-
-Here's a glimpse of my learning journey:
-
-- **Completed Courses:**
-  - [Python for Everybody](https://www.coursera.org/specializations/python)
-  - [JavaScript Basics](https://www.codecademy.com/learn/introduction-to-javascript)
-  - [C++ Fundamentals](https://www.udemy.com/course/free-learn-c-tutorial-beginners/)
-
-- **Ongoing Courses:**
-  - [Game Modding 101](https://www.udemy.com/course/game-modding/)
-  - [Advanced Python Programming](https://www.edx.org/course/advanced-python)
-
 ## 📈 GitHub Stats
 
 ![Xalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xalo&show_icons=true&theme=radical)
