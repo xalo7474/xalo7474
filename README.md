@@ -42,14 +42,14 @@ Here's a glimpse of my learning journey:
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xalo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xalo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xalo@example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/xalo747)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xaloali74@icloud.com)
 
 ## ✨ Fun Fact
 
-When I'm not coding or modding, you can find me exploring nature, reading sci-fi novels, or playing the latest RPG games.
+When I'm not coding or modding, you can find me playing games like Rocket League, Paladins or else.
 
 ---
 
-Feel free to connect with me, collaborate, or just have a chat about tech and gaming! Let's learn and grow together. 🚀
+Feel free to connect with me, collaborate, or just have a chat about tech and gaming.
+Let's learn and grow together.
