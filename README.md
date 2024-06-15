@@ -1,4 +1,5 @@
-# 👋 Hello, World! I'm Xalo
+# 👋 Hello, World!
+## I'm Xalo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xalo&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/xalo?label=Follow&style=social)
